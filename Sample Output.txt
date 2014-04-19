@@ -1,0 +1,141 @@
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktsop/SP3CSC161.c
+gcc: /home/wallaceb/Desktsop/SP3CSC161.c: No such file or directory
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktop/SP3CSC161.c
+blanch$ ./SP3CSC161
+bash: ./SP3CSC161: No such file or directory
+blanch$ ./gogo
+Enter Text:Hell#
+Histogram follows:
+                      *                             
+        *     *       *                             
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ ./gogo
+Enter Text:    
+
+
+
+
+
+
+#
+Histogram follows:
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ ./gogo
+Enter Text: sizeof Operator                          *
+                                              
+#
+Histogram follows:
+                            *                       
+        *                   *     *                 
+*       * *     *           * *   * * *           * 
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ ./gogo
+Enter Text:#abcedfg
+Histogram follows:
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ ./gogo
+Enter Text:AAAaaabc23defghijklmnopqrstuvwxyz#
+Histogram follows:
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+* * * * * * * * * * * * * * * * * * * * * * * * * * 
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ ./gogo
+Enter Text:^[[A^[[Adsaf
+#
+Histogram follows:
+*                                                   
+*                                                   
+*     *   *                         *               
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktop/SP3CSC161.c
+blanch$ ./gogo
+Enter Text:hells#
+Histogram follows:
+                      *                             
+        *     *       *             *               
+a b c d e f g h i j k l m n o p q r s t u v w x y 
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktop/SP3CSC161.c
+blanch$ ./gogo
+Enter Text:hdll#
+Histogram follows:
+                      *                             
+      *       *       *                             
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktop/SP3CSC161.c
+blanch$ ./gogo
+Enter Text:#abcedfg
+Histogram follows:
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ./gogo
+Enter Text:AAAaaabc23defghijklmnopqrstuvwxyz#
+Histogram follows:
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+* * * * * * * * * * * * * * * * * * * * * * * * * * 
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ./gogo
+Enter Text:aaAbbBccC!!!#
+Histogram follows:
+* * *                                               
+* * *                                               
+* * *                                               
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ~walker/c/fluency-book/integer-rep
+
+This program allows experimentation with different sizes of integers
+
+Initial integer values:           decimal                       binary
+   Short (16-bit) integer:            1                   0000000000000001
+ Regular (32-bit) integer:            1   00000000000000000000000000000001
+
+Menu Options
+  I - initialize each number to a value you have entered
+  A - add 1 to each integer
+  S - subtract 1 from each number
+  M - multiple each number by 2
+  D - divide each number by 2
+  Q - Quit
+Enter option:  q
+Program terminated
+blanch$ gcc -lMyroC -o gogo /home/wallaceb/Desktop/SP3CSC161.c
+blanch$ ./gogo
+Enter Text:#abcedfg
+Histogram follows:
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ./gogo
+Enter Text::AAAaaabc23defghijklmnopqrstuvwxyz#
+Histogram follows:
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+* * * * * * * * * * * * * * * * * * * * * * * * * * 
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ./gogo
+Enter Text:aaAbbBccC!!!#
+Histogram follows:
+* * *                                               
+* * *                                               
+* * *                                               
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ./gogo
+Enter Text:AAAaaabc23defghijklmnopqrstuvwxyz#
+Histogram follows:
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+*                                                   
+* * * * * * * * * * * * * * * * * * * * * * * * * * 
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
+blanch$ ^C
+blanch$ 
+
