@@ -1,17 +1,9 @@
 
-
-/*****************************************************************
- * Brennan Wallace                                               *
- * Box:  4775                                                    *
- * Supplemental Problem 3 for CSC 161                            *
- * Assignment for Friday, March 15                            *
- *****************************************************************/
-
 /*****************************************************************
  * Academic honesty certification:                               *
  *   Written/online sources used:                                *
  *							      	 *
- *    Website 1 Professor Walker's  Grinnell Website	         *
+ *    Website 1 Professor Henry Walker's  Grinnell Website	 *
  *		www.cs.grinnell.edu/~walker/                     *
  *		courses/161.sp13/modules/getting-                *
  *		started/getting-started.shtml			 *
@@ -23,17 +15,6 @@
  *    Textbook 1 The C programming Language			 *
  *      By Brian W. Kernighan and Dennis M. Ritchie              *
  *								 *
- *   Help obtained:                                              *
- *					      			 *
- *     Professor Walker					 *
- *						      		 *
- *   My signature below confirms that the above list of sources  *
- *   is complete AND that I have not talked to anyone else       *
- *   [e.g., CSC 161 students] about the solution to this problem *
- *                                                               *
- *   Signature:							 *
- *	       							 *
- *					         Brennan Wallace *
  *****************************************************************/
 
 #include <stdio.h>
