@@ -1,6 +1,4 @@
-
 /*****************************************************************
- * Academic honesty certification:                               *
  *   Written/online sources used:                                *
  *							      	 *
  *    Website 1 Professor Henry Walker's  Grinnell Website	 *
